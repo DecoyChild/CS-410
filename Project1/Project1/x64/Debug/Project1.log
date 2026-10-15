@@ -1,0 +1,5 @@
+﻿  Project1.cpp
+E:\SNHU\Software Reverse Enginerring\cpp\Project1\Project1\Project1.cpp(112,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\SNHU\Software Reverse Enginerring\cpp\Project1\Project1\Project1.cpp(130,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\SNHU\Software Reverse Enginerring\cpp\Project1\Project1\Project1.cpp(190,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> E:\SNHU\Software Reverse Enginerring\cpp\Project1\x64\Debug\Project1.exe
